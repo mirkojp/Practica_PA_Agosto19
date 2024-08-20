@@ -1,5 +1,6 @@
 const apikey = "????";
 
+
 async function fetchElements() {
     const response = await fetch(`https://rest.coinapi.io/v1/exchanges`, {
         headers: {
