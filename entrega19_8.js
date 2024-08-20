@@ -1,4 +1,4 @@
-const apikey = "7F697BD5-D22A-4125-A343-0050A7A9DE67";
+const apikey = "????";
 
 async function fetchElements() {
     const response = await fetch(`https://rest.coinapi.io/v1/exchanges`, {
